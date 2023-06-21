@@ -83,7 +83,11 @@ Press the Enter key to save the changes.
 
 ## Screenshot
 
-![image](https://github.com/DancesWithDobes/vehicle_task_manager/assets/69741804/485e7ee7-dd92-4689-9813-f76e85eaaaa6)
+
+
+
+![image](https://github.com/DancesWithDobes/vehicle_task_manager/assets/69741804/105a9c46-114a-4a7c-89ee-a4ceb9476092)
+
 
 # Note:
 
