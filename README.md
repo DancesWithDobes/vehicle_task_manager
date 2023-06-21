@@ -1,5 +1,23 @@
 # Vehicle Task Manager
 
+## Overview
+
+The Car Maintenance Scheduler is a PyQt5-based application that allows users to manage car details and maintenance tasks associated with each car. It provides a graphical user interface (GUI) where users can add, remove, and view car details and maintenance tasks. The application uses a SQLite database to store the data.
+
+
+
+
+### Prerequisites
+Python 3.x
+
+PyQt5 library
+
+SQLite
+
+
+
+
+
 
 ### Usage
 
@@ -27,7 +45,7 @@ Click the Add Car button to save the car details.
 *To remove a car:*
 
 Highlight the entire row in the car table by clicking the small bar on the left side of the row.
-Click the Remove Car button.
+Click the Remove Car button. Removing a car will also delete all tasks asociated with that car
 
 
 
@@ -75,6 +93,6 @@ Cells in the tables can be modified by simply highlighting the value, entering n
 
 *Database Setup*
 
-The application requires the schema.sql file to set up the database structure and the vehicle_maintenance.db file to store the data. Both files should be located in the same directory as the car_maintenance_scheduler.py file.
+The application requires the schema.sql file to set up the database structure and the vehicle_maintenance.db file to store the data. Both files should be located in the same directory as the main.py file.
 
 
