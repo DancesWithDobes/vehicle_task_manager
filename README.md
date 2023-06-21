@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Car Maintenance Scheduler is a PyQt5-based application that allows users to manage car details and maintenance tasks associated with each car. It provides a graphical user interface (GUI) where users can add, remove, and view car details and maintenance tasks. The application uses a SQLite database to store the data.
+The Car Maintenance Scheduler / Task Manager is a PyQt5-based application that allows users to manage car details and maintenance tasks associated with each car. It provides a graphical user interface (GUI) where users can add, remove, and view car details and maintenance tasks. The application uses a SQLite database to store the data.
 
 
 
